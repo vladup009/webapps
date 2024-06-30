@@ -1,0 +1,30 @@
+body {
+    background: #9353d3;
+    height: 100vh;
+    color: #fff;
+    font-family: "Montserrat", "sans-serif";
+    margin: 0;
+
+  }
+.container {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.back-btn {
+    
+}
+
+.body-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+}
+
+.header__title {
+    text-align: center;
+
+}
+
